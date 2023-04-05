@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/css-lab-position-main/css-lab-position-main"
+		},
+		{
+			"path": "../../../Downloads/Bike_Shop_Lab_HTML_CSS/Bike_Shop_Lab_HTML_CSS copy"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bike_Shop_Lab_HTML_CSS copy"
+	}
+}
